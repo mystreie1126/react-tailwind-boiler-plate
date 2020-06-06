@@ -1,1 +1,1 @@
-##config tailwindcss with react
+## config tailwindcss with react
